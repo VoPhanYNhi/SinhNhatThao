@@ -1,6 +1,5 @@
 body {
-    	background: #99CCFF;
-}
+    	background: #E0FFFF;
 
 .wish {
     margin: 0;
@@ -224,7 +223,7 @@ body {
     top: 80%;
     width: 100%;
     text-align: center;
-    font-size: 15pt;
+    font-size: 22pt;
     color: #FFC0CB;
     font-family: 'Pacifico', cursive;
 }
